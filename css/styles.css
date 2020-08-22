@@ -107,7 +107,6 @@ div.card{
   z-index: 1;
 }
 #footer{
-  background-color: #FF4C68;
   height: 150px;
   text-align: center;
   padding: 120px 0 0 0;
@@ -116,7 +115,7 @@ div.card{
 #cta{
   background-color:  #FF4C68;
   text-align: center;
-  padding: 20px 0 0 0 ;
+  padding: 100px ;
 }
 #Copy{
   font-size: 0.8rem;
